@@ -1,0 +1,851 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="#0">
+    <display-name lang="es">#0</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="#0 HD">
+    <display-name lang="es">#0 HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="#VAMOS">
+    <display-name lang="es">#VAMOS</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="#VAMOS HD">
+    <display-name lang="es">#VAMOS HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="#VAMOSHD">
+    <display-name lang="es">#VAMOSHD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="13tv">
+    <display-name lang="es">13 TV</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="3/24">
+    <display-name lang="es">3/24</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="24 HORAS">
+    <display-name lang="es">24 HORAS</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="ALQUILER 1">
+    <display-name lang="es">ALQUILER 1</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="ALQUILER HD">
+    <display-name lang="es">ALQUILER HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="ALQUILER 2 HD">
+    <display-name lang="es">ALQUILER 2 HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="ALQUILER 2">
+    <display-name lang="es">ALQUILER 2</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="ALQUILER 3">
+    <display-name lang="es">ALQUILER 3</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="ALQUILER 4">
+    <display-name lang="es">ALQUILER 4</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="ALQUILER 5">
+    <display-name lang="es">ALQUILER 5</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="ALQUILER 6">
+    <display-name lang="es">ALQUILER 6</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="ALQUILER X">
+    <display-name lang="es">ALQUILER X</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="ALQUILER XX">
+    <display-name lang="es">ALQUILER XX</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="ALQ XXHARD">
+    <display-name lang="es">ALQ XXHARD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="ALQUILER XY">
+    <display-name lang="es">ALQUILER XY</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="MULTI-X 1">
+    <display-name lang="es">MULTI-X 1</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="MULTI-X 2">
+    <display-name lang="es">MULTI-X 2</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="MULTI-X 3">
+    <display-name lang="es">MULTI-X 3</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="A&amp;E">
+    <display-name lang="es">A&amp;E</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Al Jazeera English">
+    <display-name lang="es">Al Jazeera English</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="es">AMC</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="es">AMC HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="ANTENA 3">
+    <display-name lang="es">ANTENA 3</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="ANTENA 3 HD">
+    <display-name lang="es">ANTENA 3 HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="ARAGON TV INT">
+    <display-name lang="es">ARAGON TV INT</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Arirang TV">
+    <display-name lang="es">Arirang TV</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Atreseries">
+    <display-name lang="es">Atreseries</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="es">AXN</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="es">AXN HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="AXN WHITE">
+    <display-name lang="es">AXN WHITE</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="AXN WHITE HD">
+    <display-name lang="es">AXN WHITE HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="BAR TV">
+    <display-name lang="es">BAR TV</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="BABY TV">
+    <display-name lang="es">BABY TV</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="BBC World News Europe HD">
+    <display-name lang="es">BBC World News Europe HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="BEIN LALIGA">
+    <display-name lang="es">BEIN LALIGA</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="BEINLALIGA1">
+    <display-name lang="es">BEINLALIGA1</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="BEINLALIGA2">
+    <display-name lang="es">BEINLALIGA2</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="BEINLALIGA3">
+    <display-name lang="es">BEINLALIGA3</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="BEINLALIGA4">
+    <display-name lang="es">BEINLALIGA4</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="BEINLALIGA5">
+    <display-name lang="es">BEINLALIGA5</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="BEINLALIGA6">
+    <display-name lang="es">BEINLALIGA6</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="BEINLALIGA7">
+    <display-name lang="es">BEINLALIGA7</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="BEINLALIGA8">
+    <display-name lang="es">BEINLALIGA8</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="BE MAD">
+    <display-name lang="es">BE MAD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="BLAZE">
+    <display-name lang="es">BLAZE</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Betevé">
+    <display-name lang="es">Betevé</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Bloomberg Europe TV">
+    <display-name lang="es">Bloomberg Europe TV</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="BOING">
+    <display-name lang="es">BOING</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CALLE 13">
+    <display-name lang="es">CALLE 13</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CALLE 13 HD">
+    <display-name lang="es">CALLE 13 HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CANAL COCINA">
+    <display-name lang="es">CANAL COCINA</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CANAL DECASA">
+    <display-name lang="es">CANAL DECASA</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="EXTREMADURA SAT">
+    <display-name lang="es">EXTREMADURA SAT</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CANAL ODISEA">
+    <display-name lang="es">CANAL ODISEA</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CANAL ORBE21">
+    <display-name lang="es">CANAL ORBE21</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CANAL PANDA">
+    <display-name lang="es">CANAL PANDA</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CANAL SUR A.">
+    <display-name lang="es">CANAL SUR A.</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CAZAyPESCA">
+    <display-name lang="es">CAZAyPESCA</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CAZAyPESCA HD">
+    <display-name lang="es">CAZAyPESCA HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CLAN  TVE">
+    <display-name lang="es">CLAN  TVE</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CLASSICA">
+    <display-name lang="es">CLASSICA</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CNBC Europe">
+    <display-name lang="es">CNBC Europe</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CNC World">
+    <display-name lang="es">CNC World</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CNN Int.">
+    <display-name lang="es">CNN Int.</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="COMEDYCENTRAL">
+    <display-name lang="es">COMEDYCENTRAL</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="COMEDYCENTRALHD">
+    <display-name lang="es">COMEDYCENTRALHD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="COSMO">
+    <display-name lang="es">COSMO</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="COSMO HD">
+    <display-name lang="es">COSMO HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CRIMEN+INVES">
+    <display-name lang="es">CRIMEN+INVES</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CUATRO">
+    <display-name lang="es">CUATRO</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Cubavision Internacional">
+    <display-name lang="es">Cubavision Internacional</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CUATRO HD">
+    <display-name lang="es">CUATRO HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Dark">
+    <display-name lang="es">Dark</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="DISCOVERY">
+    <display-name lang="es">DISCOVERY</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Discovery MAX">
+    <display-name lang="es">Discovery MAX</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="DISNEY CH">
+    <display-name lang="es">DISNEY CH</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="DISNEY CH HD">
+    <display-name lang="es">DISNEY CH HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="DISNEY JR">
+    <display-name lang="es">DISNEY JR</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="DISNEY XD">
+    <display-name lang="es">DISNEY XD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="DIVINITY">
+    <display-name lang="es">DIVINITY</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="DKISS">
+    <display-name lang="es">DKISS</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="ENERGY">
+    <display-name lang="es">ENERGY</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Esport 3">
+    <display-name lang="es">Esport 3</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="ETB 1">
+    <display-name lang="es">ETB 1</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="EURONEWS FRENCH SD">
+    <display-name lang="es">EURONEWS FRENCH SD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="EUROSPORT 1">
+    <display-name lang="es">EUROSPORT 1</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="EUROSPORT1HD">
+    <display-name lang="es">EUROSPORT1HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="EUROSPORT 2">
+    <display-name lang="es">EUROSPORT 2</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="EWTN">
+    <display-name lang="es">EWTN</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="FDF">
+    <display-name lang="es">FDF</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="es">FOX</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="es">FOX HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="FOX LIFE">
+    <display-name lang="es">FOX LIFE</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="FOX LIFE HD">
+    <display-name lang="es">FOX LIFE HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="FOX NEWS">
+    <display-name lang="es">FOX NEWS</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Futbol Replay">
+    <display-name lang="es">Fútbol Replay</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="France 24 in English">
+    <display-name lang="es">France 24 in English</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="France 24 en Français">
+    <display-name lang="es">France 24 en Français</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="France 24 in Arabic">
+    <display-name lang="es">France 24 in Arabic</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="TVGA">
+    <display-name lang="es">TVGA</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Garage TV">
+    <display-name lang="es">Garage TV</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="GOL">
+    <display-name lang="es">GOL</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="HISTORIA">
+    <display-name lang="es">HISTORIA</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="HOLLYWOOD">
+    <display-name lang="es">HOLLYWOOD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="HOLLYWOODHD">
+    <display-name lang="es">HOLLYWOODHD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="IBERALIA TV">
+    <display-name lang="es">IBERALIA TV</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Intereconomía TV">
+    <display-name lang="es">Intereconomía TV</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Kiss tv">
+    <display-name lang="es">Kiss tv</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="LA 1">
+    <display-name lang="es">LA 1</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="LA 1 HD">
+    <display-name lang="es">LA 1 HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="La 2">
+    <display-name lang="es">La 2</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="LA SEXTA">
+    <display-name lang="es">LA SEXTA</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="LA SEXTA HD">
+    <display-name lang="es">LA SEXTA HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="La Liga 123">
+    <display-name lang="es">La liga 123</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="LALIGATV BAR">
+    <display-name lang="es">LALIGATV BAR</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="LALIGATVBAR1">
+    <display-name lang="es">LALIGATVBAR1</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="LALIGATVBAR2">
+    <display-name lang="es">LALIGATVBAR2</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="LALIGA123TVM1">
+    <display-name lang="es">LALIGA123TVM1</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="LALIGA123TVM2">
+    <display-name lang="es">LALIGA123TVM2</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="LALIGA123TVM3">
+    <display-name lang="es">LALIGA123TVM3</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Libertad Digital TV">
+    <display-name lang="es">Libertad Digital TV</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="LTC">
+    <display-name lang="es">LTC</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Mega">
+    <display-name lang="es">Mega</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. ACCION">
+    <display-name lang="es">M. ACCION</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. ACCION HD">
+    <display-name lang="es">M. ACCION HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M.CineDocRoll">
+    <display-name lang="es">M.CineDocRoll</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. Cine spain">
+    <display-name lang="es">M. Cine spain</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Movistar Comedia">
+    <display-name lang="es">Movistar Comedia</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. DEPORTES">
+    <display-name lang="es">M. DEPORTES</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. DEPORTESHD">
+    <display-name lang="es">M. DEPORTESHD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M.DEPORTES1">
+    <display-name lang="es">M.DEPORTES1</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M.DEPORTES1HD">
+    <display-name lang="es">M.DEPORTES1HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. DEPORTES2">
+    <display-name lang="es">M. DEPORTES2</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. DEPORTES3">
+    <display-name lang="es">M. DEPORTES3</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. DEPORTES4">
+    <display-name lang="es">M. DEPORTES4</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. DEPORTES5">
+    <display-name lang="es">M. DEPORTES5</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. DEPORTES6">
+    <display-name lang="es">M. DEPORTES6</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. DISNEY">
+    <display-name lang="es">M. DISNEY</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. DRAMA">
+    <display-name lang="es">M. DRAMA</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. DRAMA HD">
+    <display-name lang="es">M. DRAMA HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M.ESTRENOS">
+    <display-name lang="es">M.ESTRENOS</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M.ESTRENOSHD">
+    <display-name lang="es">M.ESTRENOSHD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. FAMA 24H">
+    <display-name lang="es">M. FAMA 24H</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Movistar Fútbol">
+    <display-name lang="es">Movistar Fútbol</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M.FORMULA1">
+    <display-name lang="es">M.FORMULA1</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M.FORMULA1HD">
+    <display-name lang="es">M.FORMULA1HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. GOLF">
+    <display-name lang="es">M. GOLF</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. GOLF HD">
+    <display-name lang="es">M. GOLF HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M.LCAMPEONES">
+    <display-name lang="es">M.LCAMPEONES</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M.LCAMPEON1">
+    <display-name lang="es">M.LCAMPEON1</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M.LCAMPEON2">
+    <display-name lang="es">M.LCAMPEON2</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M.LCAMPEON3">
+    <display-name lang="es">M.LCAMPEON3</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M.LCAMPEON4">
+    <display-name lang="es">M.LCAMPEON4</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M.LCAMPEON5">
+    <display-name lang="es">M.LCAMPEON5</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M.LCAMPEON6">
+    <display-name lang="es">M.LCAMPEON6</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M.LCAMPEON7">
+    <display-name lang="es">M.LCAMPEON7</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M.LCAMPEON8">
+    <display-name lang="es">M.LCAMPEON8</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M.Partidao">
+    <display-name lang="es">M.Partidazo</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M.PartidazoHD">
+    <display-name lang="es">M.PartidazoHD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. SERIES">
+    <display-name lang="es">M. SERIES</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. SERIES HD">
+    <display-name lang="es">M. SERIES HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M.Seriesmania">
+    <display-name lang="es">M.Seriesmania</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M.Seriesmania HD">
+    <display-name lang="es">M.Seriesmania HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="MEZZO LIVE HD">
+    <display-name lang="es">MEZZO LIVE HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="MEZZO">
+    <display-name lang="es">MEZZO</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="MTV SPAIN">
+    <display-name lang="es">MTV SPAIN</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="MTV ROCKS">
+    <display-name lang="es">MTV ROCKS</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="MULTIDEPORTE">
+    <display-name lang="es">MULTIDEPORTE</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="NAT GEO">
+    <display-name lang="es">NAT GEO</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="NAT GEO HD">
+    <display-name lang="es">NAT GEO HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="NAT GEO WILD">
+    <display-name lang="es">NAT GEO WILD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="NG WILD HD">
+    <display-name lang="es">NG WILD HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="NHK WORLD-JPN">
+    <display-name lang="es">NHK WORLD-JPN</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="NEOX">
+    <display-name lang="es">NEOX</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="NICKELODEON">
+    <display-name lang="es">NICKELODEON</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="NICKELODEONHD">
+    <display-name lang="es">NICKELODEONHD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="NICK JR">
+    <display-name lang="es">NICK JR</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Non Stop People">
+    <display-name lang="es">Non Stop People</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="NOVA">
+    <display-name lang="es">NOVA</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="PARAMOUNT CHANNEL">
+    <display-name lang="es">PARAMOUNT CHANNEL</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="PLAYBOY TV">
+    <display-name lang="es">PLAYBOY TV</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="R. MADRID TV">
+    <display-name lang="es">R. MADRID TV</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="RT Esp">
+    <display-name lang="es">RT Esp</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="RT Esp HD">
+    <display-name lang="es">RT Esp HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Sky News Intl">
+    <display-name lang="es">Sky News Intl</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="SUNDANCE TV">
+    <display-name lang="es">SUNDANCE TV</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="SYFY">
+    <display-name lang="es">SYFY</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="SYFY HD">
+    <display-name lang="es">SYFY HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="es">TCM</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="TCM HD">
+    <display-name lang="es">TCM HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="TELECINCO">
+    <display-name lang="es">TELECINCO</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="TELECINCO HD">
+    <display-name lang="es">TELECINCO HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="TELESUR HD">
+    <display-name lang="es">TELESUR HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="TELEDEPORTE">
+    <display-name lang="es">TELEDEPORTE</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Ten">
+    <display-name lang="es">Ten</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="TOROS">
+    <display-name lang="es">TOROS</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="TOROS HD">
+    <display-name lang="es">TOROS HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="es">TNT</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="es">TNT HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Canal 33">
+    <display-name lang="es">Super 3/33</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="TV3">
+    <display-name lang="es">TV3</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="TV3 CAT">
+    <display-name lang="es">TV3 CAT</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="TV5MONDE EUROPE">
+    <display-name lang="es">TV5MONDE EUROPE</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="TV Record SD">
+    <display-name lang="es">TV Record SD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="VIAJAR">
+    <display-name lang="es">VIAJAR</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="VIAJAR HD">
+    <display-name lang="es">VIAJAR HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="VH1">
+    <display-name lang="es">VH1</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+</tv>
